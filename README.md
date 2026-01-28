@@ -1,22 +1,41 @@
-# MERN Stack App
+MERN Stack Application
 
-This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application. It serves as a template for building full-stack web applications using these technologies.
+This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application created by Ranbir Singh.
+It serves as a starter template for building full-stack web applications using modern JavaScript technologies.
 
-## Features
+🚀 Features
 
-- **MongoDB**: MongoDB is used as the database to store application data.
-- **Express.js**: Express.js is used as the web application framework to handle server-side logic.
-- **React.js**: React.js is used for building the user interface components.
-- **Node.js**: Node.js is used as the server-side runtime environment.
+MongoDB – NoSQL database for storing application data
 
-## Installation
+Express.js – Backend framework for handling APIs and server-side logic
 
-1. Clone the repository:
+React.js – Frontend library for building interactive user interfaces
 
-   ```bash
-   git clone https://github.com/arjungautam1/MERN_STACK
+Node.js – Runtime environment for executing server-side JavaScript
 
-## Tutorial
+🛠️ Installation
 
-For a step-by-step tutorial on how to build this MERN stack application, check out the YouTube channel [CodeWithArjun](https://www.youtube.com/codewitharjun).
+Clone the repository:
 
+git clone https://github.com/RanbirProjects/MERN-STACK.git
+
+
+Install dependencies for backend and frontend:
+
+npm install
+
+
+Start the application:
+
+npm start
+
+📚 Purpose
+
+This project is built to understand the complete MERN stack flow, including frontend-backend integration, REST APIs, and database operations. It’s suitable for learning, practice, and interview preparation.
+
+👨‍💻 Author
+
+Ranbir Singh
+Full Stack MERN Developer
+📍 Bengaluru
+🔗 GitHub: https://github.com/RanbirProjects
